@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\bin\Debug\FortuneTellerPracticeApp.exe.config
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\bin\Debug\FortuneTellerPracticeApp.exe
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\bin\Debug\FortuneTellerPracticeApp.pdb
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\obj\Debug\FortuneTellerPracticeApp.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\obj\Debug\FortuneTellerPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\obj\Debug\FortuneTellerPracticeApp.exe
+C:\Users\WeCanCodeIT\source\repos\FortuneTellerPracticeApp\FortuneTellerPracticeApp\obj\Debug\FortuneTellerPracticeApp.pdb

@@ -156,7 +156,7 @@ namespace FortuneTellerPracticeApp
                 Console.WriteLine("You will drive a Lexus!");
 
             //  Console.WriteLine("{0}, + {1}  will retire in {3} with {4}     in the bank, a vacation home in {5}, and a {6}", firstName, lastName, retire, bank, vacation home, and a vehicle"); 
-            }
+            }// I realized after I did the if and else if statements, that I wasn't going to be able to declare a variable to finish my concatenated sentence at the end.  I believe that if I do them with a Switch instead, I could declare a variable and get it to work.
 
            
 
